@@ -1,4 +1,11 @@
-# Task 2: Broken Authentication
+# Broken Aauthentication
+Learning notes and walkthrough for the TryHackMe room.
+
+Room: https://tryhackme.com/room/brokenauthentication
+
+---
+
+# Task 2: Types of Authentication Bypass
 
 ## Objective
 Understand the most common authentication weaknesses that can lead to authentication bypass and identify how attackers exploit them to gain unauthorized access.
@@ -12,7 +19,6 @@ Understand the most common authentication weaknesses that can lead to authentica
 - Administrative account compromise can lead to complete application takeover.
 - Reusing passwords across multiple services increases the impact of compromised credentials.
 - Credential stuffing exploits reused passwords across different applications.
-
 
 ## Question
 
